@@ -9,4 +9,5 @@ $test = array(1,2,3,4);
 var_dump($test);
 var_dump($array);
 echo 'haamza';
+echo 'soumia';
 ?>
