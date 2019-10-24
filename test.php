@@ -8,4 +8,5 @@ $array = array("1" => "PHP code tester Sandbox Online",
 $test = array(1,2,3,4);
 var_dump($test);
 var_dump($array);
+echo 'haamza';
 ?>
